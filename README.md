@@ -64,3 +64,8 @@ Data science project completed December 2025.
 
 ## License
 MIT License
+
+## Further Reading
+- [Road Accidents In France - Part 1: Data Exploration & Preprocessing|https://ai-aurora-ivy-tech.blog/road-accidents-in-france-data-exploration-preprocessing/]
+- [Road Accidents In France - Part 2: Training & Predicting Injury Severity|https://ai-aurora-ivy-tech.blog/road-accidents-in-france-training-predicting-injury-severity/]
+- [Road Accidents in France - Part 3: Data Deep Dive|https://ai-aurora-ivy-tech.blog/road-accidents-in-france-data-deep-dive/]
